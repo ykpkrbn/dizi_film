@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "canli_mi": false,
+        "dizi_adi": "Abc",
+        "sezonlar": [
+            {
+                "sezon": "1. Sezon",
+                "bolumler": [
+                    {
+                        "bolum": "1. Bölüm",
+                        "link": "şu Link",
+                        "alt_bilgi": ""
+                    },
+                    {
+                        "bolum": "2. Bölüm",
+                        "link": "bu link",
+                        "alt_bilgi": ""
+                    }
+                ]
+            },
+            {
+                "sezon": "1. Sezon",
+                "bolumler": [
+                    {
+                        "bolum": "1. Bölüm",
+                        "alt_bilgi": ""
+                    },
+                    {
+                        "bolum": "2. Bölüm",
+                        "alt_bilgi": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "canli_mi": false,
+        "dizi_adi": "Abc",
+        "sezonlar": [
+            {
+                "sezon": "1. Sezon",
+                "bolumler": [
+                    {
+                        "bolum": "1. Bölüm",
+                        "link": "şu Link",
+                        "alt_bilgi": ""
+                    },
+                    {
+                        "bolum": "2. Bölüm",
+                        "link": "bu link",
+                        "alt_bilgi": ""
+                    }
+                ]
+            },
+            {
+                "sezon": "1. Sezon",
+                "bolumler": [
+                    {
+                        "bolum": "1. Bölüm",
+                        "alt_bilgi": ""
+                    },
+                    {
+                        "bolum": "2. Bölüm",
+                        "alt_bilgi": ""
+                    }
+                ]
+            }
+        ]
+    }
+]
